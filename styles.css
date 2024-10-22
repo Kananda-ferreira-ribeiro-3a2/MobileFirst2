@@ -7,11 +7,11 @@
 
 :root {
     --cor-de-fundo: #ffffff;
-    --vinho: #442323;
-    --amarelo: #EB9B00;
-    --azul-degrade: linear-gradient(97.54deg, #ac2884 35.49%, #313538 165.37%);
+    --vinho: #a15858;
+    --amarelo: #353d80;
+    --azul-degrade: linear-gradient(97.54deg, #3df73d 35.49%, #ab08cc 165.37%);
     --fonte-principal: "Poppins";
-    --verde: #2aa804;
+    --verde: #b3ff00;
 }
 
 body {
